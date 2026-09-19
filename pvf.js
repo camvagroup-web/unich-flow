@@ -1,4 +1,4 @@
-// PVF bundle — V44 orange — 19/09 22:05 — 285989 bytes
+// PVF bundle — V44 orange — 19/09 22:08 — 285989 bytes
 var PVF = (() => {
   var __create = Object.create;
   var __defProp = Object.defineProperty;
@@ -2556,4 +2556,4 @@ Tr\u1EA3 v\u1EC1 JSON \u0111\xFAng \u0110\u1ECANH D\u1EA0NG JSON \u0111\xE3 cho 
   return __toCommonJS(App_exports);
 })();
 
-window.PVF = PVF;
+PVF.VERSION = "V44 orange 19/09 22:08"; window.PVF = PVF;
